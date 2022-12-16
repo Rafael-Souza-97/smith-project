@@ -158,4 +158,4 @@ npm run dev
 
 ## Preview
 
-https://user-images.githubusercontent.com/99055008/208204605-0a312bc3-8800-4912-a22a-66c91d2aa349.mp4
+https://user-images.githubusercontent.com/99055008/208205122-278ed82e-210f-48d6-9344-cae5c806d9e8.mp4
