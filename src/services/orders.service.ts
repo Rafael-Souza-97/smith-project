@@ -7,6 +7,13 @@ const getAllOrders = async ():Promise<TOrders[]> => {
   return allOrders;
 };
 
+const addNewOrders = async (userId: number, productsIds: number[]) => {
+  await ordersModel.addNewOrders(userId, productsIds);
+
+  return { userId, productsIds };
+};
+
 export default {
   getAllOrders,
+  addNewOrders,
 };

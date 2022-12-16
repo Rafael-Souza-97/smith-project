@@ -3,3 +3,8 @@ export interface TOrders {
   userId: string,
   productsIds: number[],
 }
+
+export interface TPostOrders {
+  userId: number,
+  productsIds: number[],
+}
