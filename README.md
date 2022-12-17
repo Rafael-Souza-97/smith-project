@@ -146,6 +146,7 @@ npm run dev
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Zoom](https://zoom.us/)
 - [Slack](https://slack.com/intl/pt-br/)
+- [ESLint](https://eslint.org/)
 - [VsCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/) & [GitHub](https://github.com/)
 - [Linux - Ubuntu](https://ubuntu.com/)
