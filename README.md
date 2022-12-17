@@ -14,7 +14,7 @@ A aplicação possui as seguintes rotas para realizar as operações de CRUD de 
 
 - `GET` /products /orders ou /users: Retorna a lista de todos os produtos, ordens ou usuários existentes no banco de dados;
 - `POST` /products /orders ou /users: Cria um novo produtom ordem ou usuário com os dados enviados no corpo da requisição;
-- `POST` /login: valida o login dos usuários na aplicação;
+- `POST` /login: valida o login dos usuários na aplicação com [JSON Web Token (JWT)](https://jwt.io/);
 
 <br>
 
@@ -144,6 +144,7 @@ npm run dev
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Docker](https://www.docker.com/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JSON Web Token](https://jwt.io/)
 - [Zoom](https://zoom.us/)
 - [Slack](https://slack.com/intl/pt-br/)
 - [ESLint](https://eslint.org/)
