@@ -108,7 +108,7 @@ git clone git@github.com:Rafael-Souza-97/smith-project.git
 cd smith-project
 ```
 
-- Instale as depëndencias, caso necessário, com `npm install`:
+- Instale as depëndencias com `npm install`:
 
 ```bash
 npm install
