@@ -2,6 +2,7 @@
 
 Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre [Typescript](https://www.typescriptlang.org/) com [Node.js](https://nodejs.org/en/)
 conectado à um banco de dados [MySQL](https://www.mysql.com/) através de uma [API REST](https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/).
+
 O projeto consiste em desenvolver o back-end de uma loja de itens medievais, onde é possível criar e ler usuários e produtos. A aplicação utiliza uma API REST com CRUD e arquitetura MSC (Model-Service-Controller), que é um modelo de arquitetura de software baseado em camadas:
 
 - `Model`: Esta camada é responsável por abrigar todo o código que pode acessar os dados no banco de dados ou no sistema de arquivos.
